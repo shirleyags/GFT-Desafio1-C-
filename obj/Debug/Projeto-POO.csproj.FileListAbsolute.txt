@@ -1,0 +1,6 @@
+C:\Users\segl\source\repos\Projeto-POO\Projeto-POO\obj\Debug\Projeto-POO.csprojAssemblyReference.cache
+C:\Users\segl\source\repos\Projeto-POO\Projeto-POO\bin\Debug\Projeto-POO.exe.config
+C:\Users\segl\source\repos\Projeto-POO\Projeto-POO\bin\Debug\Projeto-POO.exe
+C:\Users\segl\source\repos\Projeto-POO\Projeto-POO\bin\Debug\Projeto-POO.pdb
+C:\Users\segl\source\repos\Projeto-POO\Projeto-POO\obj\Debug\Projeto-POO.exe
+C:\Users\segl\source\repos\Projeto-POO\Projeto-POO\obj\Debug\Projeto-POO.pdb
